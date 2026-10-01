@@ -1,0 +1,5 @@
+1234567890,Y,Eligible for requested account type
+2345678901,N,Balance below minimum requirement
+3456789012,N,Account is not active
+4567890123,N,KYC verification pending
+5678901234,N,Balance below minimum requirement
