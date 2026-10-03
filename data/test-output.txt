@@ -3,3 +3,13 @@
 3456789012,N,Account is not active
 4567890123,N,KYC verification pending
 5678901234,N,Balance below minimum requirement
+6789012345,Y,Eligible for requested account type
+7890123456,N,Balance below minimum requirement
+8901234567,N,Account is not active
+9012345678,Y,Eligible for requested account type
+1122334455,Y,Eligible for requested account type
+2233445566,N,Account is not active
+3344556677,Y,Eligible for requested account type
+4455667788,Y,Eligible for requested account type
+5566778899,N,Account is not active
+6677889900,Y,Eligible for requested account type
